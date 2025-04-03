@@ -5,6 +5,11 @@
   "main": "main.js",
   "author": "TB",
   "license": "MIT",
+  "homepage": "https://tommgd.github.io/tomm-wordprocess-docs",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy", "gh-pages -d build"
+  },
   "dependencies": {
     "npm": "1.0.0"
   }
