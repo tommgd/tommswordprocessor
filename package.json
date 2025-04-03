@@ -1,0 +1,11 @@
+{
+  "name": "@my-org/server",
+  "version": "1.0.0",
+  "description": "Word Processor app that uses the npm package",
+  "main": "main.js",
+  "author": "TB",
+  "license": "MIT",
+  "dependencies": {
+    "npm": "1.0.0"
+  }
+}
